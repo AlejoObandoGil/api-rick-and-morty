@@ -33,6 +33,7 @@ export default {
     props: ['character']
 }
 </script>
+
 <style lang="scss">
 .character {
   background-color: var(--background-card);
